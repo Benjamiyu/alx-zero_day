@@ -1,1 +1,1 @@
-Another directory
+It's time to code!
